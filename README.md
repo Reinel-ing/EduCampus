@@ -94,7 +94,7 @@ El inicio de sesión se realiza de forma simulada utilizando:
 - React 18  
 - Vite  
 - React Router DOM v6  
-- JavaScript (ES6+)  
+- JavaScript  
 - localStorage  
 
 ---
@@ -141,4 +141,4 @@ La dirección http://localhost:5173 es donde se ejecuta la aplicación.
 
 ## Autor
 
-Reinel Alfaro
+Reinel Alfaro-Jose Rodriguez
